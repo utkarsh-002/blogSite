@@ -1,0 +1,15 @@
+{
+  "name": "myblog-api",
+  "version": "1.0.0",
+  "description": "myblog server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "utkarsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "multer": "^1.4.4"
+  }
+}
