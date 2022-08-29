@@ -3,7 +3,7 @@ BlogSite is a simple Node.js web application for static content that includes a 
 use it. The implementation is very simple and free of unnecessary dependencies.
 
 #GOALS
-An easy way to create a simple, secure website with a blog
+An easy way to create a simple, secure website with a blog<br />
 Support for text-based and photo-based blog formats
 Easy authoring in HTML, Markdown (with code formatting), or JSON
 Ordering of posts by publish date or content date
